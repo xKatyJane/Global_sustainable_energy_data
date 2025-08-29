@@ -26,6 +26,7 @@ Global_sustainable_energy_data/
 │   └── Sustainable_energy_data.ipynb   # Main analysis notebook
 ├── data/                               # Folder for storing the Kaggle dataset
 ├── README.md                           # Project overview and documentation
+```
 
 ## 📝 Analysis Notebook: *Sustainable_energy_data.ipynb*
 
