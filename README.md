@@ -20,11 +20,12 @@ To analyze and visualize global sustainable energy data to uncover trends, relat
 
 ## 📂 Repository Structure
 
+```text
 Global_sustainable_energy_data/
 ├── Notebooks/
-│ └── Sustainable_energy_data.ipynb # Main analysis notebook
-├── data/ # Folder for storing the Kaggle dataset
-├── README.md # Project overview and documentation
+│   └── Sustainable_energy_data.ipynb   # Main analysis notebook
+├── data/                               # Folder for storing the Kaggle dataset
+├── README.md                           # Project overview and documentation
 
 ## 📝 Analysis Notebook: *Sustainable_energy_data.ipynb*
 
