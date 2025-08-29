@@ -22,9 +22,9 @@ To analyze and visualize global sustainable energy data to uncover trends, relat
 
 Global_sustainable_energy_data/
 ├── Notebooks/
-│ └── Sustainable_energy_data.ipynb # Analysis notebook
-├── data/ # For storing downloaded datasets
-├── README.md # Project overview and instructions
+│ └── Sustainable_energy_data.ipynb # Main analysis notebook
+├── data/ # Folder for storing the Kaggle dataset
+├── README.md # Project overview and documentation
 
 ## 📝 Analysis Notebook: *Sustainable_energy_data.ipynb*
 
@@ -56,3 +56,10 @@ This core Jupyter Notebook includes:
    ```bash
    git clone https://github.com/xKatyJane/Global_sustainable_energy_data.git
    cd Global_sustainable_energy_data
+   ```
+
+2. Launch the notebook
+   ```bash
+   jupyter notebook
+   ```
+   Open Notebooks/Sustainable_energy_data.ipynb and run the cells to reproduce the analysis.
